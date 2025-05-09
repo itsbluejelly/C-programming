@@ -1,4 +1,4 @@
-# Number converter
+# C-Programming
 
 Hello everyone, this is a repository containing my experience on learning C as a language, thanks to my fellow friends, some research and my school experience
 
@@ -6,7 +6,7 @@ Overall, the repository contains some tackle programs that helped me understand 
 
 ## Table of contents
 
-1. [__Description__](#number-converter)
+1. Description
 2. [__Project expectations__](#project-expectations)
 3. [__Credits__](#credits)
 
